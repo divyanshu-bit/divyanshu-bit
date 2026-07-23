@@ -72,18 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-bit&theme=radical&hide_border=true" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-bit&layout=compact&theme=radical&hide_border=true" height="160px" />
-</p>
-
----
-
-### GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu-bit&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" />
-</p>
-
 ---
 
 <p align="center">
