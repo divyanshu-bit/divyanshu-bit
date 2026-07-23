@@ -72,8 +72,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-bit&theme=radical&hide_border=true" height="180px" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyanshu-bit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
